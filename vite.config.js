@@ -9,5 +9,5 @@ export default defineConfig({
     host: true, // Allow access from network (for sharing on same WiFi)
     port: 5173,
   },
-  base: '/Kartsique/', // GitHub Pages base path
+  base: process.env.NODE_ENV === 'production' ? '/Kartsique/' : '/', // GitHub Pages base path
 })

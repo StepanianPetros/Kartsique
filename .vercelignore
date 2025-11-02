@@ -1,0 +1,7 @@
+node_modules
+backend
+server.js
+*.md
+.env
+.env.local
+

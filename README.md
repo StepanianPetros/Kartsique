@@ -76,7 +76,3 @@ For production, set these in your hosting platform.
 ## Share Your App
 
 Once deployed, share your public URL with friends!
-
-## License
-
-MIT

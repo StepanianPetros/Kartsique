@@ -40,16 +40,6 @@ npm run dev:network
 
 Share the IP address shown in terminal with friends on same WiFi.
 
-## Deployment
-
-See [QUICK_SHARE.md](./QUICK_SHARE.md) for detailed deployment instructions.
-
-### Quick Deploy:
-
-- **Frontend**: Deploy to [Vercel](https://vercel.com) (free)
-- **Signaling Server**: Deploy to [Railway](https://railway.app) (free tier)
-- **Backend**: Deploy to Railway or Render (free tier)
-
 ## Project Structure
 
 ```
